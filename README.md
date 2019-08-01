@@ -1,6 +1,10 @@
 # Crear alias en Git
+<<<<<<< HEAD
+Se utilizan para comandos largos que utilices a diario..........
+=======
 
 Se utilizan para comandos largos que utilices a diario.
+>>>>>>> 3678a8843fe24fe6790d6a18a9ff694e93decd60
 
 
 ###### git config --global alias.name-del-alias "comandos a ejecutar"
